@@ -100,7 +100,6 @@ On your phone, open: `http://192.168.1.5:8000`
 
 ## Investigation Workflow
 
-```
 1. Start both servers  →  2. Create Case  →  3. Upload Evidence
         ↓
 4. Parse Evidence  →  5. Load Entities  →  6. Run Correlation
@@ -305,8 +304,6 @@ Full interactive API documentation is available at `http://127.0.0.1:8000/docs` 
 | Database connection error | PostgreSQL not running | Open pgAdmin 4 → start PostgreSQL 16 service |
 | Port already in use | Previous session still running | Close all PowerShell windows and restart |
 | Import errors on startup | Missing Python package | Run: `pip install -r requirements.txt --break-system-packages` |
-
-<img width="1677" height="691" alt="image" src="https://github.com/user-attachments/assets/8d1f4bb0-0143-4efe-bfdb-419153772928" />
 
 
 *SATYANVESH 2.0 —  Cyber Crime Division | Confidential | Version 2.0 | 2025*
