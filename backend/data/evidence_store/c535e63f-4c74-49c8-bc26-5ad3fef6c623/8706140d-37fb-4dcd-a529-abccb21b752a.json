@@ -1,0 +1,56 @@
+[
+  {
+    "msisdn": "9845001122",
+    "latitude": 12.9784,
+    "longitude": 77.6408,
+    "timestamp": "2026-03-05 19:00:00",
+    "speed": 0,
+    "accuracy": 6,
+    "location": "Indiranagar, Bengaluru"
+  },
+  {
+    "msisdn": "9845001122",
+    "latitude": 12.9767,
+    "longitude": 77.6069,
+    "timestamp": "2026-03-05 20:45:00",
+    "speed": 30,
+    "accuracy": 8,
+    "location": "MG Road, Bengaluru"
+  },
+  {
+    "msisdn": "9845001122",
+    "latitude": 12.9767,
+    "longitude": 77.6069,
+    "timestamp": "2026-03-05 21:00:00",
+    "speed": 0,
+    "accuracy": 5,
+    "location": "The Oberoi Hotel, MG Road"
+  },
+  {
+    "msisdn": "9845001122",
+    "latitude": 12.9767,
+    "longitude": 77.6069,
+    "timestamp": "2026-03-06 06:00:00",
+    "speed": 0,
+    "accuracy": 5,
+    "location": "The Oberoi Hotel, MG Road"
+  },
+  {
+    "msisdn": "9845001122",
+    "latitude": 13.1986,
+    "longitude": 77.7066,
+    "timestamp": "2026-03-06 07:15:00",
+    "speed": 65,
+    "accuracy": 9,
+    "location": "Kempegowda International Airport, Bengaluru"
+  },
+  {
+    "msisdn": "9845001122",
+    "latitude": 13.1986,
+    "longitude": 77.7066,
+    "timestamp": "2026-03-06 08:00:00",
+    "speed": 0,
+    "accuracy": 6,
+    "location": "Kempegowda International Airport, Bengaluru"
+  }
+]
